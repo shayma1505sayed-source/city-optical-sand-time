@@ -1,0 +1,6 @@
+{
+  "name": "City Optical and Times",
+  "description": "Luxury optometry, timepieces and eyewear boutique with handcrafted spectacles, precision watches, sizing fit advisor, order tracking, and instant checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
